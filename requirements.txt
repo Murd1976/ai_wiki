@@ -1,0 +1,26 @@
+django
+djangorestframework 
+websocket
+django-bootstrap4
+djangocms-admin-style
+pandas
+python-dotenv
+openai
+openpyxl
+
+tiktoken
+langchain 
+chromadb
+gspread 
+oauth2client
+lxml
+python-docx
+
+gunicorn
+psycopg2
+
+celery
+celery-progress
+
+#for application
+paramiko
